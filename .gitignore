@@ -1,2 +1,9 @@
 src/ndfl.egg-info/
+src/atnott_ndfl.egg-info/
 .idea/
+src/__pycache__/ndfl.cpython-313.pyc
+tests/__pycache__/test_ndfl_basic.cpython-313-pytest-9.0.2.pyc
+.DS_Store
+__pycache__/
+	../.DS_Store
+	.DS_Store
