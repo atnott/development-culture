@@ -1,6 +1,0 @@
-setup.py
-src/atnott_ndfl.egg-info/PKG-INFO
-src/atnott_ndfl.egg-info/SOURCES.txt
-src/atnott_ndfl.egg-info/dependency_links.txt
-src/atnott_ndfl.egg-info/top_level.txt
-tests/test_ndfl_basic.py
