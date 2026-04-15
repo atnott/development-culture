@@ -1,4 +1,4 @@
-src
+API reference for sales project
 ===
 
 .. toctree::

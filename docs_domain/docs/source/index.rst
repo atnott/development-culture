@@ -17,6 +17,8 @@ documentation for details.
 
    QUICKSTART
    HOW_TO_CONTRIBUTE
+   DOMAIN
+   ../source.api/modules
 
 .. include:: ../DOMAIN.md
     :parser: myst_parser.sphinx_

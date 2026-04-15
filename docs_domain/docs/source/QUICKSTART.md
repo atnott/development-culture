@@ -8,7 +8,7 @@ pip install -e .
 ```
 
 ## Example
-```
-python
+```python
 from sales import report
+
 ```
