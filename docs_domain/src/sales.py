@@ -32,6 +32,7 @@ def _parse_record(line: str) -> dict | None:
     }
 
 def read_data(path):
+    '''Parses one '''
     res = []  # final list
     with open(path, "r", encoding="utf-8") as f:  # open file
         for x in f:  # go over lines
